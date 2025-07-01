@@ -1,0 +1,9 @@
+contacts = {
+    "ziad" : 1028157991 ,
+    "hossam" :1022488498 ,
+    "salma" : 1023747477,
+    }
+print( contacts .keys())
+print( contacts ["ziad"])
+print(contacts ["salma"])
+print(contacts ["salma"])
